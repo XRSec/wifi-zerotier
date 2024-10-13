@@ -1,0 +1,6 @@
+id=wifi-app-controller
+name=WiFi App Controller
+version=1.0
+versionCode=1
+author=Your Name
+description=Monitor WiFi state and launch/kill app based on connection.
